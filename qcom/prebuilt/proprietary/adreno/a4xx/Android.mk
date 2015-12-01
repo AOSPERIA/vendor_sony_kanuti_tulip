@@ -433,6 +433,7 @@ LOCAL_MULTILIB := 64
 LOCAL_MODULE_PATH := $(TARGET_OUT)/vendor/lib64
 include $(BUILD_PREBUILT)
 
+
 include $(CLEAR_VARS)
 LOCAL_MODULE := librs_adreno
 LOCAL_MODULE_OWNER := Sony Mobile
