@@ -62,4 +62,5 @@ PRODUCT_PACKAGES += \
 	hci_qcomm_init \
 	wcnss_service \
 	libpn547_fw \
-	libbtnv
+	libbtnv \
+	libril-qc-qmi-1
