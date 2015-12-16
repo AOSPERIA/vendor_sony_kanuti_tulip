@@ -22,3 +22,4 @@ PRODUCT_PACKAGES += \
     libta
 	
 $(call inherit-product, vendor/sony/tulip/tulip-vendor-blobs.mk)
+$(call inherit-product, vendor/qcom/prebuilt/qcom-vendor.mk)
