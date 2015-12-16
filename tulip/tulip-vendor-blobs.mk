@@ -593,11 +593,9 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tulip/proprietary/vendor/lib64/mmi_vibrator.so:system/vendor/lib64/mmi_vibrator.so \
     vendor/sony/tulip/proprietary/vendor/lib64/mmi_volume.so:system/vendor/lib64/mmi_volume.so \
     vendor/sony/tulip/proprietary/vendor/lib64/mmi_wifi.so:system/vendor/lib64/mmi_wifi.so \
-    vendor/sony/tulip/proprietary/lib/libta.so:system/lib/libta.so \
     vendor/sony/tulip/proprietary/lib/libMiscTaAccessor.so:system/lib/libMiscTaAccessor.so \
     vendor/sony/tulip/proprietary/lib/libMiscTAApi.so:system/lib/libMiscTAApi.so \
     vendor/sony/tulip/proprietary/lib/libmiscta.so:system/lib/libmiscta.so \
-    vendor/sony/tulip/proprietary/lib64/libta.so:system/lib64/libta.so \
     vendor/sony/tulip/proprietary/lib64/libMiscTaAccessor.so:system/lib64/libMiscTaAccessor.so \
     vendor/sony/tulip/proprietary/lib64/libMiscTAApi.so:system/lib64/libMiscTAApi.so \
     vendor/sony/tulip/proprietary/lib64/libmiscta.so:system/lib64/libmiscta.so 
