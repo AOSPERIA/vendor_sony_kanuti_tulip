@@ -24,6 +24,11 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tulip/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/sony/tulip/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/sony/tulip/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
+	vendor/sony/tulip/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
+	vendor/sony/tulip/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
+	vendor/sony/tulip/proprietary/lib64/libcnefeatureconfig.so:system/lib64/libcnefeatureconfig.so \
+	vendor/sony/tulip/proprietary/lib64/libkeyctrl.so:system/lib64/libkeyctrl.so \
+	vendor/sony/tulip/proprietary/lib64/hw/sensors.default.so:system/lib64/hw/sensors.default.so \
     vendor/sony/tulip/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/sony/tulip/proprietary/vendor/bin/sound_trigger_test:system/vendor/bin/sound_trigger_test \
     vendor/sony/tulip/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
